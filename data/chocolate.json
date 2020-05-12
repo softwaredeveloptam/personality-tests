@@ -1,0 +1,47 @@
+{
+    "title": "Quiz about Chocolate",
+    "questions": [
+      {
+        "text": "Do you love the taste of chocolate?",
+        "type": "tf",
+        "answer": "t"
+      },
+      {
+        "text": "Do you prefer chocolate over most things?",
+        "type": "tf",
+        "answer": "t"
+      },
+      {
+        "text": "What's one snack you prefer over the others?",
+        "type": "mc",
+        "answers": [
+          "Chocolate",
+          "Strawberry Flavored Ice Cream",
+          "Vanilla Pudding",
+          "Pistacho Desserts"
+        ],
+        "answer": "Chocolate"
+      },
+      {
+        "text": "What is the best cookie?",
+        "type": "mc",
+        "answers": [
+          "Chocolate Chip",
+          "Sugar",
+          "Beer"
+        ],
+        "answer": "Chocolate Chip"
+      },
+      {
+        "text": "What helps you relax the most?",
+        "type": "mc",
+        "answers": [
+          "Chocolate Desserts",
+          "Nap Time",
+          "Singing in the Shower",
+          "Taking a trip overseas!"
+        ],
+        "answer": "Chocolate Desserts"
+      }
+    ]
+}
