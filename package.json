@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "start": "node server",
     "serve": "vue-cli-service serve",
     "build": "npx vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
@@ -11,7 +12,6 @@
   "dependencies": {
     "core-js": "^3.6.4",
     "dotenv": "^8.2.0",
-    "heroku": "^7.41.1",
     "vue": "^2.6.11",
     "vue-animejs": "^2.1.1",
     "vue-router": "^3.1.6"
@@ -37,8 +37,5 @@
       "vue-cli-service lint",
       "git add"
     ]
-  },
-  "resolutions": {
-    "@vue/cli-service/mini-css-extract-plugin": "0.8.0"
   }
 }
