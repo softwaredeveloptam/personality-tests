@@ -1,7 +1,6 @@
 <template>
   <div class="SampleTest">
     <h1>{{ msg }}</h1>
-    <h3>Coming Soon!</h3>
   </div>
 </template>
 

@@ -2,6 +2,7 @@
   <div class="home">
     <!-- Insert an image -->
     <HomePage msg="Make or Take a Personality Test"/>
+    <img src="../assets/frontpage.png">
   </div>
 </template>
 

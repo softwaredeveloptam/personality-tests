@@ -1,4 +1,15 @@
-# personality-tests
+# Personality-Tests-Creator
+
+# Change Log
+- 0.1.0 - Created backbone for front end
+
+We're still in the infancy of creating personality tests for all users.
+Soon you'll be able to create your own tests/quizzes to share with others!
+
+Take it for a spin by following the instructions below.
+
+# Future Updates
+- Ability to create your own tests
 
 ## Project setup
 ```
@@ -10,14 +21,11 @@ yarn install
 yarn serve
 ```
 
+Once it's served up, go to your local host to test out the code.
+
 ### Compiles and minifies for production
 ```
 yarn build
-```
-
-### Run your unit tests
-```
-yarn test:unit
 ```
 
 ### Lints and fixes files

@@ -15,20 +15,21 @@
         "text": "What's one snack you prefer over the others?",
         "type": "mc",
         "answers": [
-          "Chocolate",
           "Strawberry Flavored Ice Cream",
+          "Chocolate Dipped Fruit",
           "Vanilla Pudding",
           "Pistacho Desserts"
         ],
-        "answer": "Chocolate"
+        "answer": "Chocolate Dipped Fruit"
       },
       {
         "text": "What is the best cookie?",
         "type": "mc",
         "answers": [
-          "Chocolate Chip",
           "Sugar",
-          "Beer"
+          "Red Velvet",
+          "Oatmeal",
+          "Chocolate Chip"
         ],
         "answer": "Chocolate Chip"
       },
@@ -36,9 +37,9 @@
         "text": "What helps you relax the most?",
         "type": "mc",
         "answers": [
-          "Chocolate Desserts",
           "Nap Time",
           "Singing in the Shower",
+          "Chocolate Desserts",
           "Taking a trip overseas!"
         ],
         "answer": "Chocolate Desserts"
